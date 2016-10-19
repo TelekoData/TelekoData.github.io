@@ -1,0 +1,155 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	background: black;
+	font-family: Arial, sans-serif;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+ img {
+    max-width: 100% !important;
+    margin:0 auto;
+  }
+.about{
+	text-align: center;
+	font-size:14px;
+	color:black;
+}
+h1 {
+	text-align: center;
+	font-size: 25px;
+	font-style: bold;
+	color:black;
+}
+h2 {
+	font-size: 20px;
+	text-align: center;
+	background: black;
+	margin-top: 0px;
+	color:lightgrey;
+	font-family: arial;
+	padding:5px;
+}
+.navbar-fixed-top {
+	background:black;
+	font-color:grey;
+	font-style:none;
+	height:70px;
+}
+.greybar{
+	background:lightgrey;
+  	height:100%;
+  	margin-bottom: 30px;
+  	padding-bottom: 10px;
+}
+footer{
+	background: black;
+	padding:10px;
+}
+footer p {
+	text-align: center;
+	color:white;
+}
+.greenbar {
+	height:20px;
+	border-top: 3px solid white;
+	background: #b7df2d; /* Old browsers */
+	background: -moz-linear-gradient(left, #b7df2d 0%, #f0f4e1 49%, #b7df2d 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #b7df2d 0%,#f0f4e1 49%,#b7df2d 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #b7df2d 0%,#f0f4e1 49%,#b7df2d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7df2d', endColorstr='#b7df2d',GradientType=1 ); /* IE6-9 */
+}
+	
+.subhead{
+	color:#a3cc00;
+	font-size: 16px;
+}
+.carousel-inner a{
+	border: .2px solid white;
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	text-decoration: none;
+	color:white;
+}
+.carousel-indicators{
+	padding:0px;
+}
+.navbar-nav {
+	margin-top: 10px !important; 
+}
+.navbar-header {
+	padding:10px;
+	align:left;
+	background: url(../img/logo.svg) no-repeat center;
+}
+.navbar-brand {
+	width:150px;
+  	height: 50px;
+}
+.navbar-collapse{
+	background: black;
+}
+.carousel-indicators{
+	bottom:0;
+}
+@media (max-width: 425px) {
+	.button-contact{
+		display:none;
+	}
+}
+.text{
+	padding:5px;
+}
+.container2{
+	width:600px;
+	margin:50px auto;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+#submit-button {
+    width:60px;
+    float:right;
+}
+#submit{
+    width:60px;
+    display:inline-block;
+}
+input{
+	width:100%;
+}
+.whitebar{
+	background: white;
+}
+.row{
+	padding-bottom:20px;
+	background: white;
+}
+textarea{
+	width:100%;
+}
+h3 {
+	color:darkgrey;
+	text-align: center;
+}
+.details{
+	color:darkgrey;
+	text-align: center;
+}
+.carousel-caption {
+	text-shadow: 0 0px 0px rgba(0,0,0,0);
+	margin-bottom:50px;
+}
+.button-contact:hover{
+	background:white;
+	}
+
+
+
+
