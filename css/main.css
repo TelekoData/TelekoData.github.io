@@ -45,6 +45,13 @@ h2 {
   	height:100%;
   	margin-bottom: 30px;
   	padding-bottom: 10px;
+  	padding-top: 20px;
+}
+.greybar2{
+	background:lightgrey;
+  	height:100%;
+	padding:10px;
+	margin-bottom: 30px;
 }
 footer{
 	background: black;
@@ -149,7 +156,19 @@ h3 {
 .button-contact:hover{
 	background:white;
 	}
-
+@media (max-width: 425px) {
+	.carousel-indicators{
+	display:none;
+	}
+.circles{
+	text-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.circle-img{
+	padding:15px;
+}
 
 
 
