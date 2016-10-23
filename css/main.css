@@ -54,6 +54,12 @@ h2 {
 	padding:10px;
 	margin-bottom: 30px;
 }
+.greybar3{
+	background:lightgrey;
+  	height:100%;
+  	margin-top:20px;
+	padding:10px;
+}
 footer{
 	background: black;
 	padding:10px;
@@ -170,8 +176,4 @@ h3 {
 }
 .circle-img{
 	padding:5px;
-}
-.icon{
-	margin-left: auto;
-    margin-right: auto;
 }
