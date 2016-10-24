@@ -53,6 +53,14 @@ h2 {
   	margin-top:20px;
 	padding:10px;
 	margin-bottom: 30px;
+	text-align: center;
+}
+.greybar3{
+	background:lightgrey;
+  	height:100%;
+  	margin-top:20px;
+	padding:10px;
+	text-align: center;
 }
 footer{
 	background: black;
@@ -60,7 +68,7 @@ footer{
 }
 footer p {
 	text-align: center;
-	color:white;
+	color:lightgrey;
 }
 .greenbar {
 	height:20px;
@@ -75,6 +83,11 @@ footer p {
 .subhead{
 	color:#a3cc00;
 	font-size: 16px;
+}
+.subhead2{
+	color:darkgrey;
+	font-size: 16px;
+	text-align: center;
 }
 .carousel-inner a{
 	border: .2px solid white;
@@ -114,12 +127,6 @@ footer p {
 }
 .text{
 	padding:5px;
-}
-.container2{
-	width:600px;
-	margin:50px auto;
-	padding-top:10px;
-	padding-bottom:10px;
 }
 #submit-button {
     width:60px;
@@ -171,7 +178,11 @@ h3 {
 .circle-img{
 	padding:5px;
 }
-.icon{
-	margin-left: auto;
-    margin-right: auto;
+.container{
+	text-align: center;
 }
+}
+textarea#message{
+	resize: vertical;
+}
+
