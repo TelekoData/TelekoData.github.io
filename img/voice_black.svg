@@ -5,17 +5,74 @@
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{fill:#EAEAEA;}
-	.st2{fill:#EAEAEA;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{clip-path:url(#SVGID_2_);}
+	.st3{clip-path:url(#SVGID_4_);}
+	.st4{enable-background:new    ;}
+	.st5{fill:#EAEAEA;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
 <rect class="st0" width="49.9" height="49.8"/>
 <g>
-	<circle class="st1" cx="24.9" cy="25" r="23.3"/>
+	<circle class="st1" cx="24.9" cy="24.9" r="23.3"/>
 </g>
 <g>
-	<path class="st2" d="M9.4,26.2l6.1,5.2c2.8-3.3,2.4-8.3-0.9-11.2L9.4,26.2z"/>
-	<path class="st2" d="M16.4,18.2c4.5,3.9,5,10.6,1.1,15.1l2.3,2c4.9-5.8,4.2-14.4-1.5-19.3L16.4,18.2z"/>
-	<path class="st2" d="M20.5,13.4c3.3,2.8,5.5,7,5.9,11.6c0.3,4.7-1.2,9-4,12.3l1.9,1.6c3.2-3.8,5-8.8,4.6-14.1
-		c-0.4-5.4-2.9-10.1-6.7-13.3L20.5,13.4z"/>
-	<path class="st2" d="M24.4,8.9C34,17.2,35,31.6,26.8,41.2l2.5,2.2c9.4-11,8.2-27.5-2.8-37L24.4,8.9z"/>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<defs>
+								<rect id="SVGID_1_" x="5.2" y="6.2" width="39.6" height="37.3"/>
+							</defs>
+							<clipPath id="SVGID_2_">
+								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+							</clipPath>
+							<g class="st2">
+								<g>
+									<g>
+										<g>
+											<g id="phone-volume.tif">
+												<g>
+													<defs>
+														<rect id="SVGID_3_" x="4.8" y="8.9" width="39.3" height="37.1"/>
+													</defs>
+													<clipPath id="SVGID_4_">
+														<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+													</clipPath>
+													<g class="st3">
+														<g>
+															<g id="phone-volume.tif_1_" class="st4">
+																<g>
+																	<g id="phone-volume.tif_2_" class="st4">
+																		<defs>
+																			<rect id="SVGID_5_" x="6" y="9.6" class="st4" width="35.9" height="33.9"/>
+																		</defs>
+																		<clipPath id="SVGID_6_">
+																			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+																		</clipPath>
+																	</g>
+																</g>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st5" d="M37.5,37.3l-2,2c-0.4,0.4-1.4,0.6-1.4,0.6c-6.4,0.1-12.5-2.4-17-7c-4.5-4.5-7-10.7-7-17.1c0,0,0.2-1,0.6-1.4
+		l2-2c0.7-0.7,2.2-1.1,3.1-0.7l0.4,0.1c1,0.3,2,1.4,2.3,2.4l1,3.7c0.3,1-0.1,2.4-0.8,3.2l-1.3,1.3c1.3,4.9,5.2,8.7,10,10.1l1.3-1.3
+		c0.7-0.7,2.2-1.1,3.2-0.8l3.7,1c1,0.3,2.1,1.3,2.4,2.3l0.1,0.4C38.5,35.1,38.2,36.5,37.5,37.3z M27.1,24.7H29
+		c0-2.1-1.7-3.8-3.8-3.8v1.9C26.3,22.8,27.1,23.6,27.1,24.7z M34.7,24.7c0-5.2-4.2-9.5-9.5-9.5v1.9c4.2,0,7.6,3.4,7.6,7.6H34.7z
+		 M25.2,9.5v1.9c7.3,0,13.3,6,13.3,13.3h1.9C40.4,16.3,33.6,9.5,25.2,9.5z"/>
 </g>
 </svg>

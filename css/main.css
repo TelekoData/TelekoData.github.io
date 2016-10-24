@@ -33,6 +33,7 @@ h2 {
 	color:lightgrey;
 	font-family: arial;
 	padding:5px;
+	text-decoration:none;
 }
 .navbar-fixed-top {
 	background:black;
@@ -178,9 +179,9 @@ h3 {
 .circle-img{
 	padding:5px;
 }
-.container{
+/*.container{
 	text-align: center;
-}
+}*/
 }
 textarea#message{
 	resize: vertical;
