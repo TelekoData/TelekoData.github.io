@@ -189,11 +189,7 @@ textarea#message{
 input#submit-button{
 	text-align: center;
 }
-.element { 
-	pointer-events: none; 
-}
-.element > a { 
-	text-decoration:none; 
-	color:inherit; 
+.number{
+	text-decoration: none
 }
 
