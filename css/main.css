@@ -186,4 +186,7 @@ h3 {
 textarea#message{
 	resize: vertical;
 }
+input#submit-button{
+	text-align: center;
+}
 
