@@ -192,4 +192,9 @@ input#submit-button{
 .number{
 	text-decoration: none;
 }
-
+.appleLinks a {
+	color:#000000;
+}
+.appleLinksWhite a {
+	color:#ffffff;
+}
